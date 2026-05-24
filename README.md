@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 <br>Matemático egresado de la Facultad de Ciencias de la Universidad Nacional Autónoma de México (UNAM), con especial interés en geometría y docencia universitaria.<br><br>Actualmente colaboro en el Departamento de Matemáticas de la FES Acatlán. Gran parte de mi trabajo se enfoca en el geometría, cálculo u álgebra, buscando conectar la intuición geométrica con la formalidad matemática.<br><br>En este perfil comparto:<br><br>* 📘 Notas y apuntes de álgebra, cálculo y geometría.<br>* 🧮 Material didáctico para cursos universitarios.<br>* 📊 Infografías y recursos visuales de matemáticas.<br>* 💻 Proyectos relacionados con tecnología, LaTeX y herramientas digitales para educación matemática.<br>* 🚀 Experimentos y proyectos personales orientados al aprendizaje continuo.<br><br>Me interesa especialmente la intersección entre matemáticas, tecnología y comunicación visual, así como el desarrollo de recursos abiertos que faciliten el aprendizaje y la colaboración académica.<br><br>Siempre abierto a colaborar en proyectos educativos, divulgación matemática y herramientas para la enseñanza.<br>
 
 
